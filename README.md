@@ -5,10 +5,10 @@ Um ponto de partida para a Arquitetura Limpa com ASP.NET Core. Clean Architectur
 
 The Core Project
 
-Entities
-Domain Events
-DTOs
-Interfaces
-Event Handlers
-Domain Services
+Entities, 
+Domain Events, 
+DTOs, 
+Interfaces, 
+Event Handlers, 
+Domain Services, 
 
